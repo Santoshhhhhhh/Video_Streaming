@@ -1,0 +1,29 @@
+.component {
+  background-image: url(../../../static/img/rectangle-35.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 290px;
+  width: 214px;
+}
+
+.component .overlap-group {
+  background: linear-gradient(180deg, rgb(10, 7, 11) 0%, rgba(10, 7, 11, 0) 100%);
+  height: 88px;
+  position: relative;
+  top: 202px;
+}
+
+.component .wanda-vision {
+  color: var(--ffffff);
+  font-family: var(--subtitle-2-semibold-font-family);
+  font-size: var(--subtitle-2-semibold-font-size);
+  font-style: var(--subtitle-2-semibold-font-style);
+  font-weight: var(--subtitle-2-semibold-font-weight);
+  height: 30px;
+  left: 12px;
+  letter-spacing: var(--subtitle-2-semibold-letter-spacing);
+  line-height: var(--subtitle-2-semibold-line-height);
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
