@@ -52,10 +52,3 @@ To use the BD Video Streaming application, follow these steps:
 
 7. **Enjoy Streaming**: Explore the movie collection, click on a movie to start streaming, and enjoy your movie!
 
-## Contribution
-
-If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. We welcome any enhancements, bug fixes, or new features that can improve the BD Video Streaming experience.
-
----
-
-Thank you for using BD Video Streaming! If you have any questions, issues, or suggestions, please don't hesitate to contact the team members listed above. Happy streaming!
