@@ -13,7 +13,7 @@ The project utilizes a range of technologies and frameworks:
 
 - **Cloud Computing**: Cloud computing services are used for hosting and streaming movie files. This ensures scalability, reliability, and high performance for the application.
 
-## Team Members
+
 
 
 
